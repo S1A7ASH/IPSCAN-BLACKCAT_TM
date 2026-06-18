@@ -9,7 +9,7 @@
 
 **A high-performance asynchronous port scanner with country-based IP targeting**
 <p align="center">
-  <img src="screenshot.png" width="500">
+  <img src="ipsc.png" width="500">
 </p>
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
