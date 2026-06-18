@@ -11,7 +11,6 @@
 <p align="center">
   <img src="ipsc.png" width="500">
 </p>
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
 </div>
 
