@@ -8,7 +8,9 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge)
 
 **A high-performance asynchronous port scanner with country-based IP targeting**
-
+<p align="center">
+  <img src="screenshot.png" width="500">
+</p>
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
 </div>
